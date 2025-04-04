@@ -66,4 +66,14 @@ Nutrition Manager는 아래와 같은 서브 프로젝트로 구성됩니다.
 | **AI 백엔드 서버** | 음식 사진을 분석하여 인식 결과를 반환하는 REST API 제공 | [GitHub](https://github.com/wku-team-potato/N.M_AI_BE) |
 | **AI 인공지능 학습 코드** | AI 모델 학습 및 개선 코드 | [GitHub](https://github.com/wku-team-potato/FoodDetectAI-YOLO) |
 
+## 🔗 문서
+
+| 문서 이름              | Docs |
+|------------------------|--------|
+| **애플리케이션 화면 정의서** | [Docs](https://github.com/wku-team-potato/N.M_FE/blob/main/assets/docs/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98_%ED%99%94%EB%A9%B4%EC%A0%95%EC%9D%98%EC%84%9C.pdf) |
+| **관리자 웹 페이지 화면 정의서** | [Docs](https://github.com/wku-team-potato/N.M_Manager/blob/main/assets/docs/%EA%B4%80%EB%A6%AC%EC%9E%90_%EC%9B%B9_%ED%8E%98%EC%9D%B4%EC%A7%80_%ED%99%94%EB%A9%B4_%EC%A0%95%EC%9D%98%EC%84%9C.pdf) |
+| **백엔드 서버 API 문서** | [Docs](https://github.com/wku-team-potato/N.M_BE/blob/main/assets/docs/Application_API_Docs.pdf) |
+| **데이터베이스 설계 문** | [Docs](https://github.com/wku-team-potato/N.M_BE/blob/main/assets/docs/DB_Design.pdf) |
+| **AI 백엔드 서버 API 문서** | [Docs](https://github.com/wku-team-potato/N.M_AI_BE/blob/main/assets/docs/AI_BE_API_DOCS.pdf) |
+
 ---
