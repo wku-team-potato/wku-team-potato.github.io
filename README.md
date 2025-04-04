@@ -35,7 +35,7 @@
 - **관리자 기능** – 관리자만 접근 가능한 웹 페이지에서 데이터 관리  -->
 
 ## 🏗️ 시스템 구성도  
-![System Architecture](../assets/images/system_architecture.png) 
+![System Architecture](https://github.com/wku-team-potato/.github/blob/main/assets/images/system_architecture.png) 
 
 ## 🛠️ 기술 스택  
 
